@@ -1,6 +1,4 @@
-# Nombre del Proyecto
-
-Segunda entrega JPA Controller
+# Segunda entrega JPA Controller
 
 ![Evidencia1](assets/Evidencia_1.png)
 
